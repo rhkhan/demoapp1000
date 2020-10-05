@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
         <div>
              Hi, I am From Github to Azure
+            changes have been commited
         </div>
     </form>
 </body>
